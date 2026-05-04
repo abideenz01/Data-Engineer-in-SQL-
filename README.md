@@ -478,6 +478,11 @@ SELECT * FROM INFORMATION_SCHEMA.COLUMNS
 -- View all tables in database
 SELECT * FROM INFORMATION_SCHEMA.TABLES
 
+-- View columns of a specific table
+SELECT COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = 'Orders'
+
 🌟 About Me: 👋 Hi, I'm Zain UL Abideen | Data Engineer
 
 I am passionate about Building scalable data pipelines that turn raw data into actionable insights
@@ -500,9 +505,6 @@ Specialties: • ETL/ELT Pipelines • Data Warehousing • Data Design Architec
 
 Email: abideenz095@gmail.com
 
--- View columns of a specific table
-SELECT COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH
-FROM INFORMATION_SCHEMA.COLUMNS
-WHERE TABLE_NAME = 'Orders'
+
 
 
