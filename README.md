@@ -17,21 +17,6 @@
 This repository documents a structured learning journey through SQL from absolute basics to advanced analytical queries. All queries are written in T-SQL and tested on Microsoft SQL Server using two databases: MyDatabase and SalesDB.
 <img width="332" height="339" alt="details" src="https://github.com/user-attachments/assets/640cbb55-42e7-4e18-b660-18bdba606dc8" />
 
-# 🗂️ File Structure
-<img width="294" height="148" alt="struc 1" src="https://github.com/user-attachments/assets/5aad0a13-9c15-41b0-a83a-5a62e22d1db2" />
-
-# 🟢 Basic SQL
-
-<img width="267" height="194" alt="image" src="https://github.com/user-attachments/assets/78db7b1e-7605-4b7e-af9f-d8d1dd6d626e" />
--- Unique list of countries
-
-
-# 🟡 Intermediate SQL
-
-
-# 🔴 Advanced SQL
-<img width="313" height="261" alt="image" src="https://github.com/user-attachments/assets/e0c8c22f-d448-49e6-80a7-cb078d4e2c33" />
-
 
 
 
